@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliot\\source\\repos\\C#\\Records\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45C28FF-E82C-41FA-A880-30F35C1CDF91}|Records\\Records.csproj|c:\\users\\eliot\\source\\repos\\c#\\records\\records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45C28FF-E82C-41FA-A880-30F35C1CDF91}|Records\\Records.csproj|solutionrelative:records\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\C#\\Records\\Records\\Program.cs",
+              "RelativeDocumentMoniker": "Records\\Program.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\C#\\Records\\Records\\Program.cs",
+              "RelativeToolTip": "Records\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:06:09.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

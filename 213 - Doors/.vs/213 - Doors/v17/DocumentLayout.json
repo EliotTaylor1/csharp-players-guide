@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliot\\source\\repos\\C#\\213 - Doors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64064C13-4AD2-449A-B23D-AAD5561344B1}|213 - Doors\\213 - Doors.csproj|c:\\users\\eliot\\source\\repos\\c#\\213 - doors\\213 - doors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64064C13-4AD2-449A-B23D-AAD5561344B1}|213 - Doors\\213 - Doors.csproj|solutionrelative:213 - doors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliot\\source\\repos\\C#\\213 - Doors\\213 - Doors\\Program.cs",
+              "RelativeDocumentMoniker": "213 - Doors\\Program.cs",
+              "ToolTip": "C:\\Users\\eliot\\source\\repos\\C#\\213 - Doors\\213 - Doors\\Program.cs",
+              "RelativeToolTip": "213 - Doors\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwKsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:46:01.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\eliot\source\repos\C#\Records\Records\bin\Debug\net8.0\Records.exe
+C:\Users\eliot\source\repos\C#\Records\Records\bin\Debug\net8.0\Records.deps.json
+C:\Users\eliot\source\repos\C#\Records\Records\bin\Debug\net8.0\Records.runtimeconfig.json
+C:\Users\eliot\source\repos\C#\Records\Records\bin\Debug\net8.0\Records.dll
+C:\Users\eliot\source\repos\C#\Records\Records\bin\Debug\net8.0\Records.pdb
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.AssemblyInfoInputs.cache
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.AssemblyInfo.cs
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.dll
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\refint\Records.dll
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.pdb
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\Records.genruntimeconfig.cache
+C:\Users\eliot\source\repos\C#\Records\Records\obj\Debug\net8.0\ref\Records.dll
